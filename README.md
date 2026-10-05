@@ -47,9 +47,10 @@ Entropy (Obstacles/Load) ──┘                                   └──> 
 ---
 
 ## 🚀 Evolutionary Roadmap
-- [x] **Phase 1:** Two-Valve Tropism (MVP verification of triode non-linear curves).
-- [ ] **Phase 2:** Four-Valve Integration (Adding $C_1$ and $C_2$ memory layers for historical trajectory drift).
-- [ ] **Phase 3:** Six-Valve Totality (Full matrix with $C_3$ homeostasis and mirror differential output).
+## ✔ Evolutionary Roadmap
+- [ ] **Phase 1:** Two-valve Tropius (MVP verification of triode non-linear curves).
+- [ ] **Phase 2:** Four-valve Integration (Adding RC_1Q and RC_2Q memory layers for historical trajectory drift).
+- [ ] **Phase 3:** Six-valve Totality (full matrix with RC_3Q homeostasis and mirror differential output).
 
 ---
 
