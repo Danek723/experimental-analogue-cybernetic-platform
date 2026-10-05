@@ -1,0 +1,51 @@
+CERN OPEN HARDWARE LICENCE VERSION 2
+STRONGLY RECIPROCAL
+
+Preamble
+
+Copyright (C) 2020 CERN. This Licence is public and non-exclusive. 
+This version of the CERN Open Hardware Licence is strongly reciprocal. 
+It governs the use, modification, and sharing of Hardware.
+
+1. DEFINITIONS
+
+1.1. "Licence" means this CERN Open Hardware Licence (CERN-OHL), Version 2.
+1.2. "Designer" means the natural or legal person who creates the Documentation.
+1.3. "Hardware" means tangible items such as electrical or mechanical components, 
+integrated circuits, or assemblies of items, whose manufacture, configuration, 
+or assembly is described in the Documentation.
+1.4. "Documentation" means design files, schematics, artwork, component lists, 
+instruction manuals, or other textual, graphical, or electronic information 
+describing the Hardware.
+1.5. "Source Documentation" means the preferred form of the Documentation for 
+making modifications to it.
+1.6. "Covered Material" means either the Source Documentation, the Generated 
+Documentation, or the Hardware.
+1.7. "Modify" means to make derivative works based upon the Documentation, 
+including translating, adapting, or arranging the Documentation.
+1.8. "You" means any natural or legal person exercising rights under this Licence.
+
+2. SCOPE AND GRANT OF RIGHTS
+
+2.1. The Designer grants You a worldwide, royalty-free, non-exclusive, sublicensable 
+licence to exercise the rights in the Documentation to:
+a) Make, use, test, and debug the Hardware;
+b) Modify the Source Documentation and create Generated Documentation;
+c) Distribute, communicate, make available, or sell the Covered Material.
+
+3. CONDITIONS FOR DISTRIBUTION AND SHARING
+
+3.1. If You Distribute Modified Source Documentation, You must license it under 
+the terms of this CERN-OHL-S.
+3.2. You must retain all copyright, trademark, and attribution notices contained 
+in the original Documentation.
+3.3. You must include a copy of this Licence with any distribution of the Covered Material.
+
+4. DISCLAIMER AND LIABILITY
+
+4.1. The Covered Material is provided "as is", without warranty of any kind, 
+express or implied, including but not limited to the warranties of merchantability, 
+fitness for a particular purpose, and noninfringement.
+4.2. In no event shall the copyright holders or contributors be liable for any claim, 
+damages, or other liability arising from, out of or in connection with the software 
+or the use or other dealings in the Covered Material.
